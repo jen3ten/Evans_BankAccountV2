@@ -4,3 +4,6 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\Week9_BankAccountProj
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Week9_BankAccountProjectv2_03012016\Week9_BankAccountProjectv2_03012016\obj\Debug\Week9_BankAccountProjectv2_03012016.exe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Week9_BankAccountProjectv2_03012016\Week9_BankAccountProjectv2_03012016\obj\Debug\Week9_BankAccountProjectv2_03012016.pdb
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Week9_BankAccountProjectv2_03012016\Week9_BankAccountProjectv2_03012016\obj\Debug\Week9_BankAccountProjectv2_03012016.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week9_BankAccountRedo\Week9_BankAccountProjectv2_03012016\bin\Debug\Week9_BankAccountProjectv2_03012016.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week9_BankAccountRedo\Week9_BankAccountProjectv2_03012016\obj\Debug\Week9_BankAccountProjectv2_03012016.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week9_BankAccountRedo\Week9_BankAccountProjectv2_03012016\obj\Debug\Week9_BankAccountProjectv2_03012016.pdb
